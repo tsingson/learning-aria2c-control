@@ -1,4 +1,4 @@
-# 1847test
+# Learning Aria2c control with golang
 
 some golang tools for testing
 - aria2jsonrpc client
